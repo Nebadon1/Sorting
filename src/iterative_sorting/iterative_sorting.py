@@ -15,7 +15,7 @@ def selection_sort( arr ):
             if arr[j] < arr[smallest_index]:
                 smallest_index = j
     # temp = arr[cur_index]     
-    # arr[cur_index]= arr[smallest_index]
+    # arr[cur_index] = arr[smallest_index]
     # arr[smallest_index] = temp 
 
         # TO-DO: swap
